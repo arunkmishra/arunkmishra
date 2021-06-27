@@ -1,4 +1,4 @@
-I am a [Scala](https://www.scala-lang.org/) enthusiast.
+I am a [Scala](https://www.scala-lang.org/) enthusiast. Still learning
 
 Cheers and happy coding! 👋
 
